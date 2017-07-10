@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主题颜色-->
+    <!--Material Design 500 的色值-->
+    <color name="mainColor">#3f51b5</color>
+    <!--Material Design 700 的色值-->
+    <color name="darkMainColor">#303f9f</color>
+    <!--Material Design 100 的色值-->
+    <color name="lightMainColor">#c5cae9</color>
+
+    <!--主要颜色-->
+    <color name="copyright">#494f4f</color>
+    <color name="black">#000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--声网-->
+    <color name="transparent_75_white">#ACFFFFFF</color>
+    <color name="dark_gray">#FF55585A</color>
+    <color name="agora_blue">#FF00A0EB</color>
+    <color name="dark_black">#CC262626</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <!--项目基本信息-->
+    <string name="app_name">教师端</string>
+
+    <!--声网-->
+    <string name="bit_rate_value_with_unit">%d kbps</string>
+    <string name="frame_rate_value_with_unit">%d fps</string>
+</resources>

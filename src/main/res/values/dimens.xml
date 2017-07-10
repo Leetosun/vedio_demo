@@ -1,0 +1,10 @@
+<resources>
+    <!-- 默认的屏幕边缘 -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <dimen name="icon_margin">8dp</dimen>
+    <dimen name="copyright_text_size">15sp</dimen>
+
+    <!--声网-->
+    <dimen name="video_indicator_bottom_margin">20dp</dimen>
+</resources>
